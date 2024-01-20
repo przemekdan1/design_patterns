@@ -1,2 +1,2 @@
-# design_patterns
-Simple examples of desingn patterns for practice
+# Singleton
+Creational design pattern which certain you about existing only one instance of specific class
