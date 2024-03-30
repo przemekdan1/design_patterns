@@ -5,3 +5,4 @@ Knowledge Simple examples of desingn patterns implemented just for practing them
 - Singleton
 - Iterator
 - Abstract factory
+- 
