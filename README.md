@@ -25,7 +25,7 @@ This project aims to illustrate the differences between using inheritance and de
 
 
 
-![alt text](image-1.png)    <img src="image-4.png" alt="alt text" width="400" height="350"/>    <img src="image-5.png" alt="alt text" width="400" height="350"/>
+![alt text](images/image-1.png)    <img src="images/image-4.png" alt="alt text" width="400" height="350"/>    <img src="images/image-5.png" alt="alt text" width="400" height="350"/>
 
 
 ## [Snake game](./Snake_multiple_dp/)
@@ -59,5 +59,5 @@ Java
 - **Whole Game Composition**: Structures the game into Model (game logic), View (UI), and Controller (input handling) to separate concerns and enhance maintainability.
 
 
-<img src="image-2.png" alt="alt text" width="500" height="350"/>
+<img src="images/image-2.png" alt="alt text" width="500" height="350"/>
 
