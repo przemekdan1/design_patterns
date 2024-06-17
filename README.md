@@ -28,6 +28,19 @@ This project aims to illustrate the differences between using inheritance and de
 ![alt text](images/image-1.png)    <img src="images/image-4.png" alt="alt text" width="400" height="350"/>    <img src="images/image-5.png" alt="alt text" width="400" height="350"/>
 
 
+## [Currency exchange](./CurrencyExchanger/)
+
+C#
+
+
+- **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
+- **Factory Method**: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
+- **Dependency Injection**: A design pattern in which an object receives other objects that it depends on, making the code more modular and testable.
+- **Facade**: Provides a simplified interface to a complex subsystem.
+
+<img src="images/image-6.png" alt="alt text" width="700" height="350"/>
+
+
 ## [Snake game](./Snake_multiple_dp/)
 
 Java
