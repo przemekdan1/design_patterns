@@ -32,6 +32,8 @@ This project aims to illustrate the differences between using inheritance and de
 
 C#
 
+Currency Exchanger is a C# console application that fetches and displays exchange rates for various currencies against the Polish złoty (PLN). It allows users to convert amounts between different currencies using the latest exchange rates from the National Bank of Poland (NBP) API.
+
 
 - **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
 - **Factory Method**: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
@@ -39,6 +41,19 @@ C#
 - **Facade**: Provides a simplified interface to a complex subsystem.
 
 <img src="images/image-6.png" alt="alt text" width="700" height="350"/>
+
+### Example Output
+
+```
+Currency code: USD, Name: dolar amerykański, Rate: 3.9843
+Currency code: EUR, Name: euro, Rate: 4.2923
+...
+Enter currency: USD
+Enter target currency: EUR
+Enter available funds: 100
+100 USD = 93.09 EUR
+dolar amerykański -> euro
+```
 
 
 ## [Snake game](./Snake_multiple_dp/)
