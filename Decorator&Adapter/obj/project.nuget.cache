@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkFqozE3xcZAjGDDtpPp5vJKw1YgvqaadiDpEJchxxHyflMhDC1m9iZHI9bXlwXmiPoWiAPACpU6a2XWYcypzg==",
+  "dgSpecHash": "2E8QCGIn4lDprR7bXh6Tl5UVATCUoesN5YhIuadftGVLbO8l7Rs8Urwbc8hjrJCkXl56SWbuyWyCesqVpoJK3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\Vectors.csproj",
+  "projectFilePath": "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\Vectors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

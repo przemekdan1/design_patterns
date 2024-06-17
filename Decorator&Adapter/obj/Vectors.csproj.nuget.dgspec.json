@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\Vectors.csproj": {}
+    "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\Vectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\Vectors.csproj": {
+    "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\Vectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\Vectors.csproj",
+        "projectUniqueName": "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\Vectors.csproj",
         "projectName": "Vectors",
-        "projectPath": "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\Vectors.csproj",
+        "projectPath": "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\Vectors.csproj",
         "packagesPath": "C:\\Users\\jange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jange\\OneDrive\\Studia\\V_semestr\\Technologie obiektowe\\lab02-vectors\\Vectors\\obj\\",
+        "outputPath": "C:\\Users\\jange\\design_patterns\\Decorator&Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jange\\AppData\\Roaming\\NuGet\\NuGet.Config",

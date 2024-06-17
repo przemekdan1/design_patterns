@@ -13,3 +13,18 @@ C:\Users\jange\OneDrive\Studia\V_semestr\Technologie obiektowe\lab02-vectors\Vec
 C:\Users\jange\OneDrive\Studia\V_semestr\Technologie obiektowe\lab02-vectors\Vectors\obj\Debug\net6.0\Vectors.pdb
 C:\Users\jange\OneDrive\Studia\V_semestr\Technologie obiektowe\lab02-vectors\Vectors\obj\Debug\net6.0\Vectors.genruntimeconfig.cache
 C:\Users\jange\OneDrive\Studia\V_semestr\Technologie obiektowe\lab02-vectors\Vectors\obj\Debug\net6.0\ref\Vectors.dll
+C:\Users\jange\design_patterns\Decorator&Adapter\bin\Debug\net6.0\Vectors.exe
+C:\Users\jange\design_patterns\Decorator&Adapter\bin\Debug\net6.0\Vectors.deps.json
+C:\Users\jange\design_patterns\Decorator&Adapter\bin\Debug\net6.0\Vectors.runtimeconfig.json
+C:\Users\jange\design_patterns\Decorator&Adapter\bin\Debug\net6.0\Vectors.dll
+C:\Users\jange\design_patterns\Decorator&Adapter\bin\Debug\net6.0\Vectors.pdb
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.csproj.AssemblyReference.cache
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.AssemblyInfoInputs.cache
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.AssemblyInfo.cs
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.dll
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\refint\Vectors.dll
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.pdb
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\Vectors.genruntimeconfig.cache
+C:\Users\jange\design_patterns\Decorator&Adapter\obj\Debug\net6.0\ref\Vectors.dll

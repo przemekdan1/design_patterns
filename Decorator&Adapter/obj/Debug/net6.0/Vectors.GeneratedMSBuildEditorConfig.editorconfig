@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Vectors
-build_property.ProjectDir = C:\Users\jange\OneDrive\Studia\V_semestr\Technologie obiektowe\lab02-vectors\Vectors\
+build_property.ProjectDir = C:\Users\jange\design_patterns\Decorator&Adapter\
